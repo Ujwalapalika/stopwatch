@@ -1,0 +1,13 @@
+/* Write CSS here */
+.timerbg{
+    background-image: url("https://assets.ccbp.in/frontend/react-js/stopwatch-sm-bg.png");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+.timerArr{
+    display: flex;
+}
+.buttonsorg{
+    display: flex;
+}
